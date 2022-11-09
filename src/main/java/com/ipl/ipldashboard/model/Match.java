@@ -39,8 +39,8 @@ public class Match {
     public LocalDate getDate() {
         return date;
     }
-    public void setDate(LocalDate date) {
-        this.date = date;
+    public void setDate(LocalDate localDate) {
+        this.date = localDate;
     }
     public String getPlayerOfMatch() {
         return playerOfMatch;
